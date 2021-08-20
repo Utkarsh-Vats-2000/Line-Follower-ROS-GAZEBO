@@ -1,0 +1,8 @@
+prefix=/home/sunil/follower_ws/devel
+
+Name: follower_bot
+Description: Description of follower_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

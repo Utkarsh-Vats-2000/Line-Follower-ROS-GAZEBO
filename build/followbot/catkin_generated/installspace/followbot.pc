@@ -1,0 +1,8 @@
+prefix=/home/sunil/follower_ws/install
+
+Name: followbot
+Description: Description of followbot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

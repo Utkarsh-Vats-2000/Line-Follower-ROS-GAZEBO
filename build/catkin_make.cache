@@ -1,0 +1,2 @@
+followbot:follower_bot
+-DCATKIN_DEVEL_PREFIX=/home/sunil/follower_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sunil/follower_ws/install -G Unix Makefiles
