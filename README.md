@@ -18,7 +18,7 @@ This is the implementaion of a line follower robot in ROS-Gazebo. This is a came
 
 ## OpenCv Pipeline
 
-
+- Image obtained from the topic *image_raw* is converted to HSV image. 
 
 ## Results
 
@@ -27,4 +27,12 @@ This is the implementaion of a line follower robot in ROS-Gazebo. This is a came
 
 ## References
 
-
+@book{quigley2015ros,
+  title     = {Programming Robots with ROS},
+  author    = {Quigley, Morgan and Gerkey, Brian and Smart, William D.},
+  month     = {12},
+  year      = {2015},
+  publisher = {O'Reilly Media},
+  totalpages= {425},
+  isbn      = {978-1-4493-2389-9},
+}
